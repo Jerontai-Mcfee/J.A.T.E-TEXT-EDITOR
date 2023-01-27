@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Module-19-pwa-Progressive-web-apps"
+		},
+		{
+			"path": "../client"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
